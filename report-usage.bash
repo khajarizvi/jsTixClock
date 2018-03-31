@@ -8,3 +8,4 @@ free -m
 echo "****************************"
 
 ping -c4 www.yahoo.com
+
