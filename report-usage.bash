@@ -5,7 +5,8 @@ echo "*************************"
 egrep 'processor|core id' /proc/cpuinfo
 echo "***************"
 free -m
-echo "****************************"
+echo "*****************************"
+echo "*****************************"
 
 ping -c4 www.yahoo.com
 
